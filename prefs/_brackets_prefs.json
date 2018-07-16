@@ -1,0 +1,506 @@
+{
+    "fonts.fontSize": "16px",
+    "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+    "sacah.keyremapper.loadremapperdialog.keymap": {
+        "navigate.toggleQuickEdit": {
+            "commandID": "navigate.toggleQuickEdit",
+            "key": "Cmd-E"
+        },
+        "navigate.toggleQuickDocs": {
+            "commandID": "navigate.toggleQuickDocs",
+            "key": "Cmd-K"
+        },
+        "navigate.jumptoDefinition": {
+            "commandID": "navigate.jumptoDefinition",
+            "key": "Cmd-J"
+        },
+        "file.openFolder": {
+            "commandID": "file.openFolder",
+            "key": "Alt-Cmd-O"
+        },
+        "view.increaseFontSize": {
+            "commandID": "view.increaseFontSize",
+            "key": "Cmd-+"
+        },
+        "view.decreaseFontSize": {
+            "commandID": "view.decreaseFontSize",
+            "key": "Cmd--"
+        },
+        "view.restoreFontSize": {
+            "commandID": "view.restoreFontSize",
+            "key": "Cmd-0"
+        },
+        "view.scrollLineUp": {
+            "commandID": "view.scrollLineUp",
+            "explicitPlaform": "mac",
+            "key": "Ctrl-Alt-Up"
+        },
+        "view.scrollLineDown": {
+            "commandID": "view.scrollLineDown",
+            "explicitPlaform": "mac",
+            "key": "Ctrl-Alt-Down"
+        },
+        "navigate.previousMatch": {
+            "commandID": "navigate.previousMatch",
+            "key": "Alt-Up"
+        },
+        "navigate.nextMatch": {
+            "commandID": "navigate.nextMatch",
+            "key": "Alt-Down"
+        },
+        "navigate.newRule": {
+            "commandID": "navigate.newRule",
+            "key": "Alt-Cmd-N"
+        },
+        "navigate.quickOpen": {
+            "commandID": "navigate.quickOpen",
+            "key": "Shift-Cmd-O"
+        },
+        "navigate.gotoDefinition": {
+            "commandID": "navigate.gotoDefinition",
+            "key": "Cmd-T"
+        },
+        "edit.selectLine": {
+            "commandID": "edit.selectLine",
+            "explicitPlaform": "mac",
+            "key": "Cmd-L"
+        },
+        "view.toggleSidebar": {
+            "commandID": "view.toggleSidebar",
+            "explicitPlaform": "mac",
+            "key": "Shift-Cmd-H"
+        },
+        "file.liveFilePreview": {
+            "commandID": "file.liveFilePreview",
+            "key": "Alt-Cmd-P"
+        },
+        "file.previewHighlight": {
+            "commandID": "file.previewHighlight",
+            "key": "Shift-Cmd-C"
+        },
+        "file.reloadLivePreview": {
+            "commandID": "file.reloadLivePreview",
+            "key": "Shift-Cmd-R"
+        },
+        "edit.indent": {
+            "commandID": "edit.indent",
+            "key": "Cmd-]"
+        },
+        "edit.unindent": {
+            "commandID": "edit.unindent",
+            "key": "Cmd-["
+        },
+        "davidwaterston.goToMatchingBracket.findMatch": {
+            "commandID": "davidwaterston.goToMatchingBracket.findMatch",
+            "key": "Cmd-/"
+        },
+        "edit.blockComment": {
+            "commandID": "edit.blockComment",
+            "explicitPlaform": "mac",
+            "key": "Alt-Cmd-\\"
+        },
+        "edit.duplicate": {
+            "commandID": "edit.duplicate",
+            "key": "Cmd-D"
+        },
+        "edit.deletelines": {
+            "commandID": "edit.deletelines",
+            "key": "Shift-Cmd-D"
+        },
+        "edit.lineUp": {
+            "commandID": "edit.lineUp",
+            "explicitPlaform": "mac",
+            "key": "Cmd-'"
+        },
+        "edit.lineDown": {
+            "commandID": "edit.lineDown",
+            "explicitPlaform": "mac",
+            "key": "Cmd-;"
+        },
+        "edit.openLineAbove": {
+            "commandID": "edit.openLineAbove",
+            "key": "Shift-Cmd-Enter"
+        },
+        "edit.openLineBelow": {
+            "commandID": "edit.openLineBelow",
+            "key": "Cmd-Enter"
+        },
+        "edit.splitSelIntoLines": {
+            "commandID": "edit.splitSelIntoLines",
+            "key": "Alt-Cmd-L"
+        },
+        "edit.addCursorToNextLine": {
+            "commandID": "edit.addCursorToNextLine",
+            "key": "Alt-Shift-Down"
+        },
+        "edit.addCursorToPrevLine": {
+            "commandID": "edit.addCursorToPrevLine",
+            "key": "Alt-Shift-Up"
+        },
+        "edit.undo": {
+            "commandID": "edit.undo",
+            "key": "Cmd-Z"
+        },
+        "edit.redo": {
+            "commandID": "edit.redo",
+            "explicitPlaform": "mac",
+            "key": "Shift-Cmd-Z"
+        },
+        "edit.cut": {
+            "commandID": "edit.cut",
+            "key": "Cmd-X"
+        },
+        "edit.copy": {
+            "commandID": "edit.copy",
+            "key": "Cmd-C"
+        },
+        "edit.paste": {
+            "commandID": "edit.paste",
+            "key": "Cmd-V"
+        },
+        "edit.selectAll": {
+            "commandID": "edit.selectAll",
+            "key": "Cmd-A"
+        },
+        "help.support": {
+            "commandID": "help.support",
+            "key": "F1"
+        },
+        "cmd.findInFiles": {
+            "commandID": "cmd.findInFiles",
+            "key": "Shift-Cmd-F"
+        },
+        "cmd.replaceInFiles": {
+            "commandID": "cmd.replaceInFiles",
+            "explicitPlaform": "mac",
+            "key": "Alt-Shift-Cmd-F"
+        },
+        "cmd.find": {
+            "commandID": "cmd.find",
+            "key": "Cmd-F"
+        },
+        "cmd.findNext": {
+            "commandID": "cmd.findNext",
+            "explicitPlaform": "mac",
+            "key": "Cmd-G"
+        },
+        "cmd.replace": {
+            "commandID": "cmd.replace",
+            "explicitPlaform": "mac",
+            "key": "Alt-Cmd-F"
+        },
+        "cmd.findPrevious": {
+            "commandID": "cmd.findPrevious",
+            "explicitPlaform": "mac",
+            "key": "Shift-Cmd-G"
+        },
+        "cmd.findAllAndSelect": {
+            "commandID": "cmd.findAllAndSelect",
+            "explicitPlaform": "mac",
+            "key": "Ctrl-Cmd-G"
+        },
+        "cmd.addNextMatch": {
+            "commandID": "cmd.addNextMatch",
+            "key": "Cmd-B"
+        },
+        "cmd.skipCurrentMatch": {
+            "commandID": "cmd.skipCurrentMatch",
+            "key": "Shift-Cmd-B"
+        },
+        "edit.showCodeHints": {
+            "commandID": "edit.showCodeHints",
+            "explicitPlaform": "mac",
+            "key": "Ctrl-Space"
+        },
+        "file.open": {
+            "commandID": "file.open",
+            "key": "Cmd-O"
+        },
+        "file.newDoc": {
+            "commandID": "file.newDoc",
+            "key": "Cmd-N"
+        },
+        "file.save": {
+            "commandID": "file.save",
+            "key": "Cmd-S"
+        },
+        "file.saveAll": {
+            "commandID": "file.saveAll",
+            "key": "Alt-Cmd-S"
+        },
+        "file.saveAs": {
+            "commandID": "file.saveAs",
+            "key": "Shift-Cmd-S"
+        },
+        "file.rename": {
+            "commandID": "file.rename",
+            "key": "F2"
+        },
+        "file.close": {
+            "commandID": "file.close",
+            "key": "Cmd-W"
+        },
+        "file.close_all": {
+            "commandID": "file.close_all",
+            "key": "Shift-Cmd-W"
+        },
+        "navigate.nextDocListOrder": {
+            "commandID": "navigate.nextDocListOrder",
+            "key": "Cmd-PageDown"
+        },
+        "navigate.prevDocListOrder": {
+            "commandID": "navigate.prevDocListOrder",
+            "key": "Cmd-PageUp"
+        },
+        "file.quit": {
+            "commandID": "file.quit",
+            "key": "Cmd-Q"
+        },
+        "cmd.switchPaneFocus": {
+            "commandID": "cmd.switchPaneFocus",
+            "key": "Alt-W"
+        },
+        "view.togglePureCode": {
+            "commandID": "view.togglePureCode",
+            "explicitPlaform": "mac",
+            "key": "Shift-Cmd-2"
+        },
+        "view.togglePanels": {
+            "commandID": "view.togglePanels",
+            "explicitPlaform": "mac",
+            "key": "Shift-Cmd-`"
+        },
+        "debug.showDeveloperTools": {
+            "commandID": "debug.showDeveloperTools",
+            "explicitPlaform": "mac",
+            "key": "Alt-Cmd-I"
+        },
+        "debug.refreshWindow": {
+            "commandID": "debug.refreshWindow",
+            "explicitPlaform": "mac",
+            "key": "Cmd-R"
+        },
+        "debug.reloadWithoutUserExts": {
+            "commandID": "debug.reloadWithoutUserExts",
+            "explicitPlaform": "mac",
+            "key": "Ctrl-Cmd-R"
+        },
+        "recentProjects.toggle": {
+            "commandID": "recentProjects.toggle",
+            "key": "Alt-Cmd-R"
+        },
+        "codefolding.collapse.all": {
+            "commandID": "codefolding.collapse.all",
+            "explicitPlaform": "mac",
+            "key": "Cmd-1"
+        },
+        "codefolding.expand.all": {
+            "commandID": "codefolding.expand.all",
+            "key": "Alt-Shift-1"
+        },
+        "codefolding.collapse": {
+            "commandID": "codefolding.collapse",
+            "key": "Alt-Cmd-["
+        },
+        "codefolding.expand": {
+            "commandID": "codefolding.expand",
+            "key": "Alt-Cmd-]"
+        },
+        "edit.lineComment": {
+            "commandID": "edit.lineComment",
+            "key": "Cmd-\\"
+        },
+        "navigate.gotoLine": {
+            "commandID": "navigate.gotoLine",
+            "explicitPlaform": "mac",
+            "key": "Cmd-i"
+        },
+        "navigate.gotoFirstProblem": {
+            "commandID": "navigate.gotoFirstProblem",
+            "explicitPlaform": "mac",
+            "key": "Cmd-Ctrl-Alt-'"
+        },
+        "recent-files.show": {
+            "commandID": "recent-files.show",
+            "key": "Alt-O"
+        },
+        "showParameterHint": {
+            "commandID": "showParameterHint",
+            "explicitPlaform": "mac",
+            "key": "Ctrl-Shift-Space"
+        },
+        "bb.beautify.beautify": {
+            "commandID": "bb.beautify.beautify",
+            "explicitPlaform": "mac",
+            "key": "Shift-Cmd-L"
+        },
+        "strong.justin.openinbrowser": {
+            "commandID": "strong.justin.openinbrowser",
+            "key": "Cmd-2"
+        },
+        "pk.charShortcutsOPT_T": {
+            "commandID": "pk.charShortcutsOPT_T",
+            "key": "Alt-T"
+        },
+        "pk.charShortcutsOPT_H": {
+            "commandID": "pk.charShortcutsOPT_H",
+            "key": "Alt-H"
+        },
+        "pk.charShortcutsCMD_OPT_CTRL_H": {
+            "commandID": "pk.charShortcutsCMD_OPT_CTRL_H",
+            "key": "Ctrl-Alt-Cmd-H"
+        },
+        "pk.charShortcutsOPT_C": {
+            "commandID": "pk.charShortcutsOPT_C",
+            "key": "Alt-C"
+        },
+        "caniuse.run": {
+            "commandID": "caniuse.run",
+            "key": "Alt-Cmd-U"
+        },
+        "MiguelCastillo.interactive-linter.showLineDetails": {
+            "commandID": "MiguelCastillo.interactive-linter.showLineDetails",
+            "key": "Shift-Cmd-E"
+        },
+        "malas34.brackets-consoleplus.showpanel": {
+            "commandID": "malas34.brackets-consoleplus.showpanel",
+            "key": "Ctrl-F12"
+        },
+        "io.emmet.prev_edit_point": {
+            "commandID": "io.emmet.prev_edit_point",
+            "key": "Alt-Cmd-Left"
+        },
+        "io.emmet.next_edit_point": {
+            "commandID": "io.emmet.next_edit_point",
+            "key": "Alt-Cmd-Right"
+        },
+        "io.emmet.evaluate_math_expression": {
+            "commandID": "io.emmet.evaluate_math_expression",
+            "key": "Shift-Cmd-Y"
+        },
+        "io.emmet.expand_abbreviation_with_tab": {
+            "commandID": "io.emmet.expand_abbreviation_with_tab",
+            "key": "Tab"
+        },
+        "io.emmet.expand_abbreviation": {
+            "commandID": "io.emmet.expand_abbreviation",
+            "key": "Alt-Cmd-Enter"
+        },
+        "io.emmet.insert_formatted_line_break": {
+            "commandID": "io.emmet.insert_formatted_line_break",
+            "key": "Enter"
+        },
+        "io.emmet.balance_inward": {
+            "commandID": "io.emmet.balance_inward",
+            "key": "Alt-Shift-Cmd-B"
+        },
+        "io.emmet.balance_outward": {
+            "commandID": "io.emmet.balance_outward",
+            "key": "Alt-Cmd-B"
+        },
+        "io.emmet.matching_pair": {
+            "commandID": "io.emmet.matching_pair",
+            "key": "Shift-Cmd-T"
+        },
+        "io.emmet.merge_lines": {
+            "commandID": "io.emmet.merge_lines",
+            "key": "Shift-Cmd-M"
+        },
+        "io.emmet.reflect_css_value": {
+            "commandID": "io.emmet.reflect_css_value",
+            "key": "Alt-Shift-Cmd-R"
+        },
+        "io.emmet.remove_tag": {
+            "commandID": "io.emmet.remove_tag",
+            "key": "Shift-Cmd-K"
+        },
+        "io.emmet.select_next_item": {
+            "commandID": "io.emmet.select_next_item",
+            "key": "Shift-Cmd-."
+        },
+        "io.emmet.select_previous_item": {
+            "commandID": "io.emmet.select_previous_item",
+            "key": "Shift-Cmd-,"
+        },
+        "io.emmet.split_join_tag": {
+            "commandID": "io.emmet.split_join_tag",
+            "key": "Shift-Cmd-J"
+        },
+        "io.emmet.wrap_with_abbreviation": {
+            "commandID": "io.emmet.wrap_with_abbreviation",
+            "key": "Shift-Cmd-A"
+        },
+        "io.emmet.update_tag": {
+            "commandID": "io.emmet.update_tag",
+            "key": "Shift-Cmd-I"
+        },
+        "io.emmet.increment_number_by_1": {
+            "commandID": "io.emmet.increment_number_by_1",
+            "key": "Shift-Cmd-Up"
+        },
+        "io.emmet.decrement_number_by_1": {
+            "commandID": "io.emmet.decrement_number_by_1",
+            "key": "Shift-Cmd-Down"
+        },
+        "io.emmet.increment_number_by_01": {
+            "commandID": "io.emmet.increment_number_by_01",
+            "key": "Alt-Shift-Cmd-Up"
+        },
+        "io.emmet.decrement_number_by_01": {
+            "commandID": "io.emmet.decrement_number_by_01",
+            "key": "Alt-Shift-Cmd-Down"
+        },
+        "io.emmet.interactive_expand_abbreviation": {
+            "commandID": "io.emmet.interactive_expand_abbreviation",
+            "key": "Alt-Shift-Cmd-Enter"
+        },
+        "extensionFileDefault_keyBindingOpenInBrowser": {
+            "commandID": "extensionFileDefault_keyBindingOpenInBrowser",
+            "explicitPlatform": "all",
+            "key": "Alt-Shift-O"
+        },
+        "recent-files.next": {
+            "commandID": "recent-files.next",
+            "key": "Shift-Cmd-]"
+        },
+        "recent-files.prev": {
+            "commandID": "recent-files.prev",
+            "key": "Shift-Cmd-["
+        },
+        "artoale.terminal.open": {
+            "commandID": "artoale.terminal.open",
+            "key": "Shift-Cmd-P"
+        }
+    },
+    "malas34.brackets-consoleplus.opened": false,
+    "bb.beautify.hideDialog": false,
+    "open.in.browser.extensionFileDefault": [
+        "jpg",
+        "jpeg",
+        "gif",
+        "png",
+        "ico"
+    ],
+    "open.in.browser.extensionFileChrome": [
+        "htm",
+        "html",
+        "xhtml",
+        "php",
+        "php3",
+        "php4",
+        "php5",
+        "phtm",
+        "phtml",
+        "cfm",
+        "cfml",
+        "asp",
+        "aspx",
+        "jsp",
+        "jspx",
+        "shtm",
+        "shtml"
+    ],
+    "linting.enabled": true,
+    "linting.collapsed": true,
+    "hirse.outline.enabled": false
+}
